@@ -28,7 +28,5 @@ https://serene-goldstine-e94ec8.netlify.app/
 [appsync/messages.js](https://github.com/amarillons/public-vue-nuxt-app/blob/develop/appsync/messages.js)
 
 - PHP + PDO + MySQL + xserver + REST（RDB バックエンド）
-- Google Cloud Function （Ethereum Faucet 用サーバーレスバックエンド）
-- Metamask, web3.js, infura （Ethereum）
 - 画像は、「いらすとや」さんのものを使用。
 
