@@ -1,0 +1,21 @@
+{
+  "name": "metamaskon",
+  "version": "1.0.0",
+  "description": "My splendiferous Nuxt.js project",
+  "author": "a.f.",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.10.3",
+    "nuxt": "^2.0.0",
+    "vue-mathjax": "0.0.11"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
