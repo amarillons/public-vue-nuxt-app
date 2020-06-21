@@ -13,10 +13,20 @@ https://serene-goldstine-e94ec8.netlify.app/
 
 ### 使用技術について
 
-- Vue.js, Nuxt.js 
+使用技術と、使用箇所は次のようになります。
+
+- Vue.js, Nuxt.js (SPA mode)
+- Vuex
+[store/auth.js](https://github.com/amarillons/public-vue-nuxt-app/blob/develop/store/auth.js)
 - Vuetify（= UIフレームワーク）
+- axios （HTTP 通信）
+[axios.get 等](https://github.com/amarillons/public-vue-nuxt-app/blob/c3df60be1b90e01f3215c306f0bb5bf3af1795c3/pages/kasens/index.vue#L59)
 - AWS cognito （認証）
+[plugins/amplify.js](https://github.com/amarillons/public-vue-nuxt-app/blob/develop/plugins/amplify.js)
 - AWS AppSync + DynamoDB + GraphQL（サーバーレスバックエンド、NOSQL）
+[middleware/auth.js](https://github.com/amarillons/public-vue-nuxt-app/blob/develop/middleware/auth.js)
+[appsync/messages.js](https://github.com/amarillons/public-vue-nuxt-app/blob/develop/appsync/messages.js)
+
 - PHP + PDO + MySQL + xserver + REST（RDB バックエンド）
 - Google Cloud Function （Ethereum Faucet 用サーバーレスバックエンド）
 - Metamask, web3.js, infura （Ethereum）
