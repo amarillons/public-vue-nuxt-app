@@ -29,5 +29,7 @@
   [middleware/auth.js](https://github.com/amarillons/public-vue-nuxt-app/blob/develop/middleware/auth.js)　　[appsync/messages.js](https://github.com/amarillons/public-vue-nuxt-app/blob/develop/appsync/messages.js)　　[cognito/keijiban.vue](https://github.com/amarillons/public-vue-nuxt-app/blob/c2d47b7746c0513dcdd1eedc23cebeb2a131be10/pages/cognito/keijiban.vue#L98)
 
 - PHP + PDO + MySQL + xserver + REST（RDB バックエンド）
+[kasens/index.vue](https://github.com/amarillons/public-vue-nuxt-app/blob/28a1719d817b7812572917630d5782ba332ac269/pages/kasens/index.vue#L59)
+
 - 画像は、「いらすとや」さんのものを使用。
 
