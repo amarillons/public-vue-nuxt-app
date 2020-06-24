@@ -1,11 +1,16 @@
 # vue-nuxt-app
-フロントエンド開発
+フロントエンド開発　
+
+### 機能
+
+- Vue + Nuxt で作った簡単なウェブサイト
 
 ### デプロイ先
 
 - Netlify を使って、次の URL にデプロイしています。
 
   https://sharp-shockley-891ece.netlify.app/
+
 
 ### リポジトリ内容について
 
