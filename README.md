@@ -4,8 +4,7 @@
 ### 機能
 
 - Vue + Nuxt で作った簡単なウェブサイト
-<img width="700" alt="screenshot 2020-06-24 at 15 08 01" src="https://user-images.githubusercontent.com/2384963/85507039-97cf8f80-b62c-11ea-9d38-5cb8647c35c7.png">
-
+<img width="700" alt="screenshot 2020-06-24 at 15 10 19" src="https://user-images.githubusercontent.com/2384963/85507173-d8c7a400-b62c-11ea-9b25-a73af4425e5e.png">
 
 ### デプロイ先
 
