@@ -37,5 +37,5 @@
 - PHP + PDO + MySQL + xserver + REST（RDB バックエンド）
 [kasens/index.vue](https://github.com/amarillons/public-vue-nuxt-app/blob/28a1719d817b7812572917630d5782ba332ac269/pages/kasens/index.vue#L59)
 
-- 画像は、「いらすとや」さんのものを使用。
+- 画像は、「wikipedia」「いらすとや」さんのものを使用。
 
